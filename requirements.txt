@@ -2,4 +2,4 @@ numpy
 pandas
 streamlit
 pyPDF2
-docx
+python-docx
