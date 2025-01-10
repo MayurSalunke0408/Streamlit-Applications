@@ -1,6 +1,5 @@
 numpy
 pandas
 streamlit
-re
 pyPDF2
 docx
