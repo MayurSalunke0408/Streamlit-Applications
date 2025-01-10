@@ -3,3 +3,4 @@ pandas
 streamlit
 pyPDF2
 python-docx
+xlsxwriter
